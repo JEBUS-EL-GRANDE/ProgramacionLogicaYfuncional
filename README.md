@@ -10,4 +10,8 @@ En este archivo se recopila todo lo que se avanzo en la materia de Prolog, mater
     -Listas.
     -librerias para trabajar de menera sgrafica.
 
+### ejecutando 08_pitagoras
+![imagen de mi de una tarea](readMeIMG/img1.jpeg "imagen de una tarea")
 
+### ejecutando 10_calculadoraBasica_grafica
+![imagen de mi de una tarea](readMeIMG/img2.jpeg "imagen de una tarea")
